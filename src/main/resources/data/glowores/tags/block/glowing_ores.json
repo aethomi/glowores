@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#glowores:copper_ores",
+    "#glowores:iron_ores",
+    "#glowores:gold_ores",
+    "#glowores:redstone_ores",
+    "#glowores:lapis_ores",
+    "#glowores:diamond_ores",
+    "#glowores:emerald_ores",
+    "#glowores:quartz_ores",
+    "#glowores:ancient_debris"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.arabella.glowores.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"GlowingOreLightMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

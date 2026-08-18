@@ -1,0 +1,13 @@
+# Gradle and generated build output
+.gradle/
+build/
+run/
+out/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Local operating-system files
+.DS_Store
+Thumbs.db

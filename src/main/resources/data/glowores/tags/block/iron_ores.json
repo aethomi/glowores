@@ -1,0 +1,8 @@
+{
+  "values": [
+    "minecraft:iron_ore",
+    "minecraft:deepslate_iron_ore",
+    { "id": "#minecraft:iron_ores", "required": false },
+    { "id": "#c:ores/iron", "required": false }
+  ]
+}
